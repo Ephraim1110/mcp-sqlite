@@ -1,0 +1,10 @@
+name: SQLite MCP Server
+version: 0.0.1
+schema: v1
+
+mcpServers:
+  - name: SQLite Local Server
+    command: python
+    args:
+      - "c:/Users/ephra/OneDrive/Documents/mcp-sqlite/app.py"
+      - "c:/Users/ephra/OneDrive/Documents/mcp-sqlite/test.db"
