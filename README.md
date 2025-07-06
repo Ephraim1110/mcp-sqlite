@@ -42,7 +42,6 @@ Table `users` avec 3 utilisateurs :
 
 ## 🔧 Dépannage
 
-- **Port occupé** : Changez le port dans `app.py`
 - **Ollama manquant** : `ollama pull qwen2.5`
 - **Erreur connexion** : Vérifiez que `app.py` est lancé
 
