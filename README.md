@@ -21,7 +21,7 @@ python app.py
 ```
 Interface web sur `http://localhost:7860`
 
-### 2. Lancer l'IA
+### 2. Lancer l'agent IA
 ```bash
 python mcp_client.py
 ```
